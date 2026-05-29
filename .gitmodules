@@ -1,0 +1,24 @@
+[submodule "libs/architecture-kernel"]
+	path = libs/architecture-kernel
+	url = https://github.com/emedina/architecture-kernel.git
+[submodule "libs/command-bus-spring-boot"]
+	path = libs/command-bus-spring-boot
+	url = https://github.com/emedina/command-bus-spring-boot.git
+[submodule "libs/query-bus-spring-boot"]
+	path = libs/query-bus-spring-boot
+	url = https://github.com/emedina/query-bus-spring-boot.git
+[submodule "libs/command-either-bus-spring-boot"]
+	path = libs/command-either-bus-spring-boot
+	url = https://github.com/emedina/command-either-bus-spring-boot.git
+[submodule "libs/query-either-bus-spring-boot"]
+	path = libs/query-either-bus-spring-boot
+	url = https://github.com/emedina/query-either-bus-spring-boot.git
+[submodule "libs/transactional-either-spring-boot"]
+	path = libs/transactional-either-spring-boot
+	url = https://github.com/emedina/transactional-either-spring-boot.git
+[submodule "libs/archunit-hexagonal"]
+	path = libs/archunit-hexagonal
+	url = https://github.com/emedina/archunit-hexagonal.git
+[submodule "reference-app/hexagonal-spring-ref-app"]
+	path = reference-app/hexagonal-spring-ref-app
+	url = https://github.com/emedina/hexagonal-spring-ref-app.git
